@@ -30,5 +30,7 @@ Scapy library: https://scapy.net
 
 ## Getting Started 
 Clone this repository: git clone https://github.com/MedAmyyne/Simple_Packet_Sniffer
+
 Install dependencies: pip install -r requirements.txt
+
 Run the sniffer: python packet_sniffer.py
