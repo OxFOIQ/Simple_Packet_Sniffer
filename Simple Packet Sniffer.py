@@ -5,7 +5,7 @@ import pyfiglet
 # variable to track if the banner has been displayed or not yet
 banner_displayed = False
 def Banner () :
-    ascii_banner = pyfiglet.figlet_format("AlphaScan", font="bulbhead")
+    ascii_banner = pyfiglet.figlet_format("AlphaScan")
     print('-'*70)
     print(ascii_banner)
     print('-'*70)
