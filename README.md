@@ -1,6 +1,6 @@
 # Simple_Packet_Sniffer
 
-## Packet Sniffer
+## AlphaScan
 
 Capture and analyze network traffic with this lightweight packet sniffer.
 
