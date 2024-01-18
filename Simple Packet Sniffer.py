@@ -9,6 +9,8 @@ def Banner () :
     print('-'*70)
     print(ascii_banner)
     print('-'*70)
+    print("-"*29+ "By MedAmyyne" + "-"*29)
+    print("="*70)
 
 # Extract from each packet the source and destination ip and store it in ip_src and ip_dst
 def process_ip(packet):
